@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         //問１： ここでは基本色しか指定できません。
         primarySwatch: Colors.orange,
       ),
+      debugShowCheckedModeBanner: false,
       home: const MyHomePage(),
     );
   }
