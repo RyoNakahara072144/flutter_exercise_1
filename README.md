@@ -1,16 +1,32 @@
-# flutter_exercise_1
+# Flutter基礎講座第一回練習問題
 
-Flutter基礎講座練習問題part1
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 問1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+アプリのテーマカラーをオレンジ色に変えてください。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 問2
+
+ScaffoldのbackgroundColorプロパティを設定して、背景を少し暗くしてください。
+
+## 問3
+
+新しくタイル４を追加してください。
+
+## 問4
+
+タイル１のGoodアイコンの右側に赤色のBadアイコンを追加してください。
+
+## 問5
+
+タイル２を縦に20pxほど大きくしてください。
+
+## 問6
+
+タイル３の文字を太字にしてください。
+
+## 問7
+
+タイル１、タイル２、タイル３のRowのmainAxisAlignmentプロパティを、MainAxisAlignment.start, MainAxisAlignment.center, MainAxisAlignment.endに設定して、それぞれの違いを確かめてください。
