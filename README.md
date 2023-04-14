@@ -30,3 +30,6 @@ ScaffoldのbackgroundColorプロパティを設定して、背景を少し暗く
 ## 問7
 
 タイル１、タイル２、タイル３のRowのmainAxisAlignmentプロパティを、MainAxisAlignment.start, MainAxisAlignment.center, MainAxisAlignment.endに設定して、それぞれの違いを確かめてください。
+
+## 解答のスクリーン
+![1a](https://user-images.githubusercontent.com/84167380/232159790-025cf8b0-1ba0-447d-a718-e01184119208.png)
