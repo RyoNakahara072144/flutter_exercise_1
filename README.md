@@ -31,5 +31,7 @@ ScaffoldのbackgroundColorプロパティを設定して、背景を少し暗く
 
 タイル１、タイル２、タイル３のRowのmainAxisAlignmentプロパティを、MainAxisAlignment.start, MainAxisAlignment.center, MainAxisAlignment.endに設定して、それぞれの違いを確かめてください。
 
-## 解答のスクリーン
+## 解答のスクリーンショット
 ![1a](https://user-images.githubusercontent.com/84167380/232159790-025cf8b0-1ba0-447d-a718-e01184119208.png)
+## 解答解説動画
+https://nk-free.com/mugi/videos/flutter_exercise_1.mp4
